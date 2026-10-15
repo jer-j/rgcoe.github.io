@@ -1,6 +1,237 @@
 # 146 entries in _bibliography/papers.bib without a pdf field
 # Review: delete the "OSTI_PDF:" line (or set to NONE) for any wrong match.
 
+######## 32 ENTRIES WITH MULTIPLE OSTI CANDIDATES ########
+
+[Grasberger:2024aa] (inproceedings, 2024) Frequency array and wave phase realizations for wave energy converter control optimization
+for wave energy converter control
+optimization
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 3009541 | Conference | 2024-09-01 | similarity 1.00 | Frequency array and wave phase realizations
+for wave energy converter control
+optimization
+  OSTI_PDF: https://www.osti.gov/biblio/3009541
+  OSTI_MATCH: 2588921 | Conference | 2024-09-01 | similarity 0.89 | Frequency array and wave phase realizations for WEC control optimization
+  OSTI_SLIDES: https://www.osti.gov/biblio/2588921
+
+[Olson:2021aa] (inproceedings, 2021) The Marine and Hydrokinetic ToolKit (MHKiT) for Data Quality Control and Analysis
+  OSTI_MATCH: 1886186 | Conference | 2021-09-06 | similarity 0.96 | The Marine and Hydrokinetic ToolKit (MHKiT) for Data Quality Control and Analysis [Slides]
+  OSTI_SLIDES: https://www.osti.gov/biblio/1886186
+
+[Mackay:2021aa] (inproceedings, 2021) A second benchmarking exercise on estimating extreme environmental conditions: methodology & baseline results
+  DOI: 10.1115/OMAE2021-64874
+  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2021/85123/V002T02A015/6769024/v002t02a015-omae2021-64874.pdf
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1855707 | Conference | 2021-03-01 | similarity 1.00 | A SECOND BENCHMARKING EXERCISE ON ESTIMATING EXTREME ENVIRONMENTAL CONDITIONS: METHODOLOGY & BASELINE RESULTS.
+  OSTI_PDF: https://www.osti.gov/biblio/1855707
+
+[Coe:2021ac] (inproceedings, 2021) Modeling and predicting power from a WEC array
+  DOI: 10.23919/OCEANS44145.2021.9706128
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1894013 | Conference | 2021-10-01 | similarity 1.00 | Modeling and predicting power from a WEC array.
+  OSTI_PDF: https://www.osti.gov/biblio/1894013
+  OSTI_MATCH: 1887348 | Conference | 2021-09-01 | similarity 1.00 | Modeling and predicting power from a WEC array.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1887348
+
+[Neary:2021aa] (inproceedings, 2021) Design Load Case Generator: Web App Tool to Determine IEC 62600-2 Standard Design Load Requirements
+  OSTI_MATCH: 1854671 | Conference | 2021-01-01 | similarity 0.95 | Design Load Case (DLC) Generator: Web-based tool to determine IEC 62600-2 standard design load requirements.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1854671
+
+[Ringwood:2019aa] (inproceedings, 2019) The Wave Energy Converter Control Competition: Overview
+  DOI: 10.1115/OMAE2019-95216
+  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2019/58899/V010T09A035/6444644/v010t09a035-omae2019-95216.pdf
+  OSTI_MATCH: 1545979 | Conference | 2019-07-25 | similarity 0.92 | The Wave Energy Converter Control Competition: Overview: Preprint
+  OSTI_PDF: https://www.osti.gov/biblio/1545979
+
+[Manuel:2016aa] (inproceedings, 2016) On the short-term uncertainty in performance of a point absorber wave energy converter
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1366659 | Conference | 2016-03-01 | similarity 0.99 | On the short-term uncertainty in performance f a point absorber wave energy converter
+  OSTI_PDF: https://www.osti.gov/biblio/1366659
+  OSTI_MATCH: 1365062 | Conference | 2016-04-01 | similarity 0.98 | On the Short-Term Uncertainty Performance of a Point Absorber Wave Energy Converter.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1365062
+
+[Giorgi:2018aa] (inproceedings, 2018) Hydraulic PTO model emulator for WEC tank tests
+  DOI: 10.1109/SPEEDAM.2018.8445383
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1569333 | Conference | 2018-09-01 | similarity 1.00 | Hydraulic PTO model emulator for WEC tank tests.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1569333
+  OSTI_MATCH: 1527252 | Conference | 2018-06-01 | similarity 1.00 | Hydraulic PTO model emulator for WEC tank tests.
+  OSTI_PDF: https://www.osti.gov/biblio/1527252
+
+[Bacelli:2018ab] (inproceedings, 2018) Efficient wave tank assessment of WEC performance
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1527253 | Conference | 2018-06-01 | similarity 1.00 | Efficient wave tank assessment of WEC performance.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1527253
+  OSTI_MATCH: 1506193 | Conference | 2018-03-01 | similarity 1.00 | Efficient wave tank assessment of WEC performance.
+  OSTI_PDF: https://www.osti.gov/biblio/1506193
+
+[Rosenberg:2019aa] (inproceedings, 2019) Development of WEC Design Loads: A Comparison of Numerical and Experimental Approaches
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1641427 | Conference | 2019-07-01 | similarity 1.00 | Development of WEC Design Loads: A Comparison of Numerical and Experimental Approaches.
+  OSTI_PDF: https://www.osti.gov/biblio/1641427
+
+[Michelen:2016aa] (inproceedings, 2016) Tool for Distributed Pressure Time-Histories of Marine Structures: Verification and Case Study With a WEC
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1618220 | Conference | 2016-03-01 | similarity 1.00 | Tool for Distributed Pressure Time-Histories of Marine Structures: Verification and Case Study With a WEC.
+  OSTI_PDF: https://www.osti.gov/biblio/1618220
+  OSTI_MATCH: 1366678 | Conference | 2016-04-01 | similarity 0.97 | Tool for Distributed Pressure Time-Histories of Marine Structures: Verification and Case Study With a WEC (POSTER).
+  OSTI_SLIDES: https://www.osti.gov/biblio/1366678
+
+[Driscol:2019aa] (inproceedings, 2019) Wave-Powered AUV Recharging: A Feasibility Study
+  DOI: 10.1115/OMAE2019-95383
+  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2019/58899/V010T09A023/6444786/v010t09a023-omae2019-95383.pdf
+  OSTI_MATCH: 1641423 | Conference | 2019-07-01 | similarity 1.00 | Wave-powered AUV Recharging: A Feasibility Study.
+  OSTI_PDF: https://www.osti.gov/biblio/1641423
+
+[Wilson:2019aa] (inproceedings, 2019) Nonlinear WEC Optimized Geometric Buoy Design for Efficient Reactive Power Requirements
+  DOI: 10.23919/OCEANS40490.2019.8962670
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1643048 | Conference | 2019-10-01 | similarity 1.00 | Nonlinear WEC Optimized Geometric Buoy Design for Efficient Reactive Power Requirements.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1643048
+  OSTI_MATCH: 1642738 | Conference | 2019-10-01 | similarity 1.00 | Nonlinear WEC Optimized Geometric Buoy Design for Efficient Reactive Power Requirements.
+  OSTI_PDF: https://www.osti.gov/biblio/1642738
+
+[Weaver:2019aa] (inproceedings, 2019) WEC Array Networked Microgrid Control Design and Energy Storage System Requirements
+  DOI: 10.23919/OCEANS40490.2019.8962576
+  *** 4 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1642739 | Conference | 2019-10-01 | similarity 1.00 | WEC Array Networked Microgrid Control Design and Energy Storage System Requirements.
+  OSTI_PDF: https://www.osti.gov/biblio/1642739
+  OSTI_MATCH: 1643035 | Conference | 2019-10-01 | similarity 1.00 | WEC Array Networked Microgrid Control Design and Energy Storage System Requirements.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1643035
+
+[Nevarez:2018aa] (inproceedings, 2018) Feedback resonating control for a wave energy converter
+  DOI: 10.1109/SPEEDAM.2018.8445379
+  *** 4 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1576914 | Conference | 2018-08-01 | similarity 1.00 | Feedback Resonating Control For a Wave Energy Converter.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1576914
+
+[Canning:2017ab] (inproceedings, 2017) On the Long-Term Reliability Analysis of a Point Absorber Wave Energy Converter
+  DOI: 10.1115/OMAE2017-62141
+  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2017/57786/V010T09A024/2534932/v010t09a024-omae2017-62141.pdf
+  OSTI_MATCH: 1365062 | Conference | 2016-04-01 | similarity 0.78 | On the Short-Term Uncertainty Performance of a Point Absorber Wave Energy Converter.
+  OSTI_PDF: 
+
+[Gunawan:2014aa] (inproceedings, 2014) Model validation using experimental measurements from the Garfield Thomas water tunnel at the Applied Research Laboratory (ARL) at Penn State University
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1143039 | Conference | 2014-04-01 | similarity 1.00 | MODEL VALIDATION USING EXPERIMENTAL MEASUREMENTS FROM THE GARFIELD THOMAS WATER TUNNEL AT THE APPLIED RESEARCH LABORATORY (ARL) AT PENN STATE UNIVERSITY.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1143039
+  OSTI_MATCH: 1142853 | Conference | 2014-04-01 | similarity 1.00 | MODEL VALIDATION USING EXPERIMENTAL MEASUREMENTS FROM THE GARFIELD THOMAS WATER TUNNEL AT THE APPLIED RESEACH LABORATORY (ARL) AT PENN STATE UNIVERSITY.
+  OSTI_PDF: https://www.osti.gov/biblio/1142853
+
+[Haselsteiner:2019aa] (inproceedings, 2019) A Benchmarking Exercise on Estimating Extreme Environmental Conditions: Methodology and Baseline Results
+  DOI: 10.1115/OMAE2019-96523
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1641424 | Conference | 2019-07-01 | similarity 0.98 | A Benchmarking Exercise on Estimating Extreme Environmental Conditions: Methodology & Baseline Results.
+  OSTI_PDF: https://www.osti.gov/biblio/1641424
+
+[Van-Rij:2018aa] (inproceedings, 2018) Design Load Analysis for Wave Energy Converters
+  DOI: 10.1115/OMAE2018-78178
+  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2018/51319/V010T09A031/2537197/v010t09a031-omae2018-78178.pdf
+  OSTI_MATCH: 1515137 | Conference | 2018-05-01 | similarity 1.00 | DESIGN LOAD ANALYSIS FOR WAVE ENERGY CONVERTERS.
+  OSTI_PDF: https://www.osti.gov/biblio/1515137
+
+[Michelen:2015aa] (inproceedings, 2015) Comparison of methods for estimating short-term extreme response of wave energy converters
+  DOI: 10.23919/OCEANS.2015.7401878
+  OSTI_MATCH: 1306093 | Conference | 2015-08-01 | similarity 1.00 | Comparison of Methods for Estimating Short-Term Extreme Response of Wave Energy Converters.
+  OSTI_PDF: https://www.osti.gov/biblio/1306093
+
+
+[Coe:2016aa] (inproceedings, 2016) WDRT: A toolbox for design-response analysis of wave energy converters
+  *** 3 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1365063 | Conference | 2016-04-01 | similarity 1.00 | WDRT: A toolbox for design-response analysis of wave energy converters.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1365063
+  OSTI_MATCH: 1366660 | Conference | 2016-03-01 | similarity 1.00 | WDRT: A toolbox for design-response analysis of wave energy converters.
+  OSTI_PDF: https://www.osti.gov/biblio/1366660
+
+[Abdelkhalik:2017ab] (inproceedings, 2017) WEC geometry optimization with advanced control
+  DOI: 10.1115/OMAE2017-61917
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1459773 | Conference | 2017-07-01 | similarity 1.00 | WEC Geometry Optimization With Advanced Control.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1459773
+  OSTI_MATCH: 1648707 | Conference | 2017-03-01 | similarity 1.00 | WEC Geometry Optimization With Advanced Control.
+  OSTI_PDF: https://www.osti.gov/biblio/1648707
+
+[Patterson:2015aa] (inproceedings, 2015) Instrumentation of a WEC device for controls testing
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1326573 | Conference | 2015-09-01 | similarity 1.00 | INSTRUMENTATION OF A WEC DEVICE FOR CONTROLS TESTING.
+  OSTI_PDF: https://www.osti.gov/biblio/1326573
+  OSTI_MATCH: 1321798 | Conference | 2015-09-01 | similarity 1.00 | INSTRUMENTATION OF A WEC DEVICE FOR CONTROLS TESTING.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1321798
+
+[Bacelli:2016aa] (inproceedings, 2016) A comparison of WEC control strategies for a linear WEC model
+  *** 3 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1365310 | Conference | 2016-04-01 | similarity 1.00 | A comparison of WEC control strategies for a linear WEC model.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1365310
+  OSTI_MATCH: 1365131 | Conference | 2016-04-01 | similarity 0.97 | A comparison WEC control strategies for a linear WEC model.
+  OSTI_PDF: https://www.osti.gov/biblio/1365131
+
+[Bacelli:2017ac] (inproceedings, 2017) WEC System Identification and Model Validation
+  *** 3 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1431726 | Conference | 2017-05-01 | similarity 1.00 | WEC System Identification and Model Validation.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1431726
+  OSTI_MATCH: 1648709 | Conference | 2017-03-01 | similarity 1.00 | WEC System Identification and Model Validation.
+  OSTI_PDF: https://www.osti.gov/biblio/1648709
+
+
+
+
+
+[Wilson:2016aa] (inproceedings, 2016) WEC and Support Bridge Control Structural Dynamic Interaction Analysis
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1365132 | Conference | 2016-04-01 | similarity 1.00 | WEC and Support Bridge Control Structural Dynamic Interaction Analysis.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1365132
+  OSTI_MATCH: 1346307 | Conference | 2016-02-01 | similarity 1.00 | WEC and Support Bridge Control Structural Dynamic Interaction Analysis.
+  OSTI_PDF: https://www.osti.gov/biblio/1346307
+
+[Cho:2019aa] (inproceedings, 2019) Evaluation of predictionless control for wave energy converters
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1642748 | Conference | 2019-10-01 | similarity 1.00 | Evaluation of predictionless control for wave energy converters.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1642748
+  OSTI_MATCH: 1641422 | Conference | 2019-07-01 | similarity 1.00 | Evaluation of predictionless control for wave energy converters.
+  OSTI_PDF: https://www.osti.gov/biblio/1641422
+
+[Cho:2018aa] (inproceedings, 2018) Linear and Nonlinear System Identification of a Wave Energy Converter
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1524503 | Conference | 2018-05-01 | similarity 1.00 | Linear and Nonlinear System Identification of a Wave Energy Converter.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1524503
+  OSTI_MATCH: 1506194 | Conference | 2018-03-01 | similarity 1.00 | Linear and Nonlinear System Identification of a Wave Energy Converter.
+  OSTI_PDF: https://www.osti.gov/biblio/1506194
+
+[Neary:2017aa] (inproceedings, 2017) Classification Systems for Wave Energy Resources and WEC Technologies
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1464892 | Conference | 2017-08-01 | similarity 1.00 | Classification Systems for Wave Energy Resources and WEC Technologies.
+  OSTI_PDF: https://www.osti.gov/biblio/1464892
+  OSTI_MATCH: 1498794 | Dataset | 2017-06-30 | similarity 0.90 | Development of Classification Systems for Wave Energy Resources and WEC Technologies
+  OSTI_SLIDES: https://doi.org/10.15473/1498794
+
+[Coe:2017ab] (inproceedings, 2017) An assessment of WEC control performance uncertainty
+  DOI: 10.1115/OMAE2017-61912
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1459785 | Conference | 2017-07-01 | similarity 1.00 | AN ASSESSMENT OF WEC CONTROL PERFORMANCE UNCERTAINTY.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1459785
+  OSTI_MATCH: 1431605 | Conference | 2017-03-01 | similarity 1.00 | An assessment of WEC control performance uncertainty.
+  OSTI_PDF: https://www.osti.gov/biblio/1431605
+
+[Coe:2014aa] (inproceedings, 2014) Nonlinear Time-Domain Performance Model for a Wave Energy Converter in Three Dimensions
+  DOI: 10.1109/OCEANS.2014.7003037
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1315394 | Conference | 2014-09-01 | similarity 1.00 | Nonlinear time-domain performance model for a wave energy converter in three dimensions.
+  OSTI_PDF: https://www.osti.gov/biblio/1315394
+  OSTI_MATCH: 1502747 | Conference | 2014-09-01 | similarity 0.93 | Presentation: Nonlinear Time-Domain Performance Model for a Wave Energy Converter in Three Dimensions.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1502747
+
+[Coe:2015aa] (inproceedings, 2015) Sensitivity of a Wave Energy Converter Dynamics Model to Nonlinear Hydrostatic Models
+  DOI: 10.1115/OMAE2015-41993
+  *** 2 CANDIDATE OSTI RECORDS ***
+  OSTI_MATCH: 1255771 | Conference | 2015-05-01 | similarity 1.00 | Sensitivity of a Wave Energy Converter Dynamics Model to Nonlinear Hydrostatic Models.
+  OSTI_SLIDES: https://www.osti.gov/biblio/1255771
+  OSTI_MATCH: 1240253 | Conference | 2015-02-01 | similarity 1.00 | Sensitivity of a Wave Energy Converter Dynamics Model to Nonlinear Hydrostatic Models.
+  OSTI_PDF: https://www.osti.gov/biblio/1240253
+
+######## ENTRIES WITH 0-1 OSTI CANDIDATES ########
+
+
+
 [Tagliafierro:2026aa] (article, 2026) Implementation and validation of DualSPHysics v5.4 for the simulation of four representative benchmarks of wave energy converters
   DOI: 10.1016/j.mex.2026.104105
   OSTI: not found
@@ -64,7 +295,7 @@ optimization
 [Gaebele:2025ab] (inproceedings, 2025) Streamlined Experimental Approach to System Identification of WEC Dynamics and Excitation Characteristics
   DOI: 10.1115/OMAE2025-156997
   existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2025/88940/V005T09A055/7531858/v005t09a055-omae2025-156997.pdf
-  OSTI_MATCH: 3374826 | full title | similarity 1.00 | Streamlined Experimental Approach to System Identification of WEC Dynamics and Excitation Characteristics
+  OSTI_MATCH: 3374826 | Conference | 2025-06-01 | similarity 1.00 | Streamlined Experimental Approach to System Identification of WEC Dynamics and Excitation Characteristics
   OSTI_PDF: https://www.osti.gov/biblio/3374826
 
 [Gaebele:2025aa] (article, 2025) Powering the Woods Hole X-Spar Buoy with Ocean Wave Energy---A Control Co-Design Feasibility Study
@@ -97,7 +328,7 @@ optimization
 
 [Liu:2025aa] (inproceedings, 2025) Development and Validation of an Inverted Pendulum Wave Energy Converter Model
   DOI: 10.5281/zenodo.20513968
-  OSTI_MATCH: 3414056 | full title | similarity 1.00 | Development and Validation of an Inverted Pendulum Wave Energy Converter Model
+  OSTI_MATCH: 3414056 | Conference | 2025-08-01 | similarity 1.00 | Development and Validation of an Inverted Pendulum Wave Energy Converter Model
   OSTI_PDF: https://www.osti.gov/biblio/3414056
 
 [Liu:2025ab] (article, 2025) Toward Extending the Life of a Floating Offshore Wind Turbine Using Sheltering From Upstream Wave Energy Converters
@@ -114,12 +345,6 @@ optimization
   DOI: 10.2172/2429934
   OSTI_MATCH: 2429934 | DOI | similarity 1.00 | Bench testing of an early prototype pitch resonator WEC
   OSTI_PDF: https://www.osti.gov/biblio/2429934
-
-[Grasberger:2024aa] (inproceedings, 2024) Frequency array and wave phase realizations for wave energy converter control optimization
-  OSTI_MATCH: 3009541 | full title | similarity 1.00 | Frequency array and wave phase realizations
-for wave energy converter control
-optimization
-  OSTI_PDF: https://www.osti.gov/biblio/3009541
 
 [Forbush:2024aa] (techreport, 2024) MASK4 Test Report
   DOI: 10.2172/2280836
@@ -142,7 +367,7 @@ optimization
 
 [Bruggemann:2023aa] (inproceedings, 2023) Beta-version Testing and Demonstration of the Design Load Case Generator: A Web-based Tool to Support IEC 62600-2 Standard Design
   DOI: 10.36688/ewtec-2023-419
-  OSTI_MATCH: 1886177 | subset match: "Web-based Tool to Support IEC 62600-2 Standard Design" +author Coe | similarity 0.69 | Design Load Case (DLC) Generator: Web-based tool to support IEC 62600-2 standard design load case analysis.
+  OSTI_MATCH: 1886177 | Conference | 2021-09-01 | similarity 0.69 | Design Load Case (DLC) Generator: Web-based tool to support IEC 62600-2 standard design load case analysis.
   OSTI_PDF: https://www.osti.gov/biblio/1886177
 
 [Coe:2023ab] (techreport, 2023) Hardware-in-the-loop testing of a hydraulic wave energy power take-off system
@@ -160,7 +385,7 @@ optimization
 
 [Gaebele:2023wf] (inproceedings, 2023) Incorporating Empirical Nonlinear Efficiency Into Control Co-Optimization of a Real World Heaving Point Absorber Using WecOptTool
   DOI: 10.1115/OMAE2023-103899
-  OSTI_MATCH: 2430993 | full title | similarity 1.00 | Incorporating Empirical Nonlinear Efficiency into Control Co-Optimization of a Real World Heaving Point Absorber using WecOptTool
+  OSTI_MATCH: 2430993 | Conference | 2023-06-01 | similarity 1.00 | Incorporating Empirical Nonlinear Efficiency into Control Co-Optimization of a Real World Heaving Point Absorber using WecOptTool
   OSTI_PDF: https://www.osti.gov/biblio/2430993
 
 [Cotten:2024aa] (article, 2024) A compressible degree of freedom as a means for improving the performance of heaving wave energy converters
@@ -209,12 +434,7 @@ optimization
 [Coe:2022aa] (inproceedings, 2022) Levelized avoided cost of energy analysis for wave energy: a case study in California
   DOI: 10.1115/OMAE2022-80731
   existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2022/85932/V008T09A073/6929644/v008t09a073-omae2022-80731.pdf
-  OSTI_MATCH: 2003007 | DOI | similarity 0.54 | Minimizing cost in a 100% renewable electricity grid: A case study of wave energy in California.
-  OSTI_PDF: https://www.osti.gov/biblio/2003007
-
-[Olson:2021aa] (inproceedings, 2021) The Marine and Hydrokinetic ToolKit (MHKiT) for Data Quality Control and Analysis
-  OSTI_MATCH: 1837990 | full title | similarity 1.00 | The Marine and Hydrokinetic Toolkit (Mhkit) for Data Quality Control and Analysis
-  OSTI_PDF: NONE (no fulltext)
+  OSTI: not found
 
 [Sharman:2025aa] (book, 2025) Ocean Structures Design: From Oil & Gas to Blue Economy (in prep; case-study contributed by Ryan G. Coe)
   status: review
@@ -246,28 +466,17 @@ optimization
 
 [Weaver:2020aa] (inproceedings, 2020) Super Capacitor Energy Storage System Design for Wave Energy Converter Demonstration
   DOI: 10.1109/SPEEDAM48782.2020.9161965
-  OSTI_MATCH: 2002935 | full title | similarity 1.00 | Super Capacitor Energy Storage System Design for Wave Energy Converter Demonstration.
+  OSTI_MATCH: 2002935 | Conference | 2022-04-01 | similarity 1.00 | Super Capacitor Energy Storage System Design for Wave Energy Converter Demonstration.
   OSTI_PDF: https://www.osti.gov/biblio/2002935
 
 [Haus:2022aa] (article, 2022) Development and characterization of a coupled structural dynamics model for the Sandia wave energy converter testbed
   DOI: 10.1007/s40722-021-00220-z
   OSTI: not found
 
-[Mackay:2021aa] (inproceedings, 2021) A second benchmarking exercise on estimating extreme environmental conditions: methodology & baseline results
-  DOI: 10.1115/OMAE2021-64874
-  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2021/85123/V002T02A015/6769024/v002t02a015-omae2021-64874.pdf
-  OSTI_MATCH: 1855707 | DOI | similarity 1.00 | A SECOND BENCHMARKING EXERCISE ON ESTIMATING EXTREME ENVIRONMENTAL CONDITIONS: METHODOLOGY & BASELINE RESULTS.
-  OSTI_PDF: https://www.osti.gov/biblio/1855707
-
 [Korde:2021aa] (inproceedings, 2021) Scoping and concept design of a WEC for autonomous power
   DOI: 10.23919/OCEANS44145.2021.9705660
-  OSTI_MATCH: 1888429 | DOI | similarity 1.00 | Scoping and concept design of a WEC for autonomous power.
+  OSTI_MATCH: 1888429 | Conference | 2021-09-01 | similarity 1.00 | Scoping and concept design of a WEC for autonomous power.
   OSTI_PDF: https://www.osti.gov/biblio/1888429
-
-[Coe:2021ac] (inproceedings, 2021) Modeling and predicting power from a WEC array
-  DOI: 10.23919/OCEANS44145.2021.9706128
-  OSTI_MATCH: 1894013 | full title | similarity 1.00 | Modeling and predicting power from a WEC array.
-  OSTI_PDF: https://www.osti.gov/biblio/1894013
 
 [Ropero-Giralda:2021aa] (article, 2021) Modelling a Heaving Point-Absorber with a Closed-Loop Control System Using the DualSPHysics Code
   DOI: 10.3390/en14030760
@@ -278,10 +487,6 @@ optimization
   DOI: 10.36688/imej.5.327-338
   OSTI_MATCH: 1807326 | full title | similarity 1.00 | A Self-Tuning WEC Controller For Changing Sea States.
   OSTI_PDF: https://www.osti.gov/biblio/1807326
-
-[Neary:2021aa] (inproceedings, 2021) Design Load Case Generator: Web App Tool to Determine IEC 62600-2 Standard Design Load Requirements
-  OSTI_MATCH: 1832667 | subset match: "Design Load Case Generator: Web App Tool to" +author Coe | similarity 0.62 | Design Load Case (DLC) Generator: Web app tool for device classification design & certification of marine energy systems.
-  OSTI_PDF: 
 
 [Ropero-Giralda:2021ab] (inproceedings, 2021) DualSPHysics: a numerical tool to design point-absorbing WECs
   OSTI: not found
@@ -311,12 +516,6 @@ optimization
   OSTI_MATCH: 1760437 | DOI | similarity 1.00 | Development of a Comparison Framework for Evaluating Environmental Contours of Extreme Sea States
   OSTI_PDF: https://www.osti.gov/biblio/1760437
 
-[Ringwood:2019aa] (inproceedings, 2019) The Wave Energy Converter Control Competition: Overview
-  DOI: 10.1115/OMAE2019-95216
-  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2019/58899/V010T09A035/6444644/v010t09a035-omae2019-95216.pdf
-  OSTI_MATCH: 1580567 | DOI | similarity 1.00 | The Wave Energy Converter Control Competition: Overview
-  OSTI_PDF: NONE (no fulltext)
-
 [Coe:2011aa] (inproceedings, 2011) Vehicle Control in a CFD Environment
   OSTI: not found
 
@@ -328,33 +527,20 @@ optimization
   existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2013/55416/V007T08A051/4431565/v007t08a051-omae2013-10931.pdf
   OSTI: not found
 
-[Manuel:2016aa] (inproceedings, 2016) On the short-term uncertainty in performance of a point absorber wave energy converter
-  OSTI_MATCH: 1366659 | full title | similarity 0.99 | On the short-term uncertainty in performance f a point absorber wave energy converter
-  OSTI_PDF: https://www.osti.gov/biblio/1366659
-
 [Canning:2017aa] (techreport, 2017) WEC Extreme Conditions Modeling Sandia Summer Intern 2017 Report
   DOI: 10.2172/1596200
   OSTI_MATCH: 1596200 | DOI | similarity 1.00 | WEC Extreme Conditions Modeling Sandia Summer Intern 2017 Report
   OSTI_PDF: https://www.osti.gov/biblio/1596200
 
 [Bacelli:2018aa] (inproceedings, 2018) Feedback resonating controller for a heaving point absorber WEC
-  OSTI_MATCH: 1508925 | subset match: "controller heaving point absorber WEC" +author Coe | similarity 0.98 | Feedback resinating controller for a heaving point absorber WEC.
-  OSTI_PDF: 
-
-[Giorgi:2018aa] (inproceedings, 2018) Hydraulic PTO model emulator for WEC tank tests
-  DOI: 10.1109/SPEEDAM.2018.8445383
-  OSTI_MATCH: 1569333 | DOI | similarity 1.00 | Hydraulic PTO model emulator for WEC tank tests.
-  OSTI_PDF: https://www.osti.gov/biblio/1569333
+  OSTI_MATCH: 1508925 | Conference | 2018-04-01 | similarity 0.98 | Feedback resinating controller for a heaving point absorber WEC.
+  OSTI_PDF: https://www.osti.gov/biblio/1508925
 
 [Nguyen:2018aa] (inproceedings, 2018) On the Development of an Efficient Surrogate Model for Predicting Long-Term Extreme Loads on a Wave Energy Converter
   DOI: 10.1115/OMAE2018-78766
   existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2018/51319/V010T09A035/2537032/v010t09a035-omae2018-78766.pdf
-  OSTI_MATCH: 1431642 | subset match: "Extreme Loads Wave Energy Converter" +author Coe | similarity 0.67 | On the Selection of Sea States in Assessing Extreme Loads on a Wave Energy Converter.
-  OSTI_PDF: 
-
-[Bacelli:2018ab] (inproceedings, 2018) Efficient wave tank assessment of WEC performance
-  OSTI_MATCH: 1527253 | full title | similarity 1.00 | Efficient wave tank assessment of WEC performance.
-  OSTI_PDF: https://www.osti.gov/biblio/1527253
+  OSTI_MATCH: 1431642 | Conference | 2017-04-01 | similarity 0.67 | On the Selection of Sea States in Assessing Extreme Loads on a Wave Energy Converter.
+  OSTI_PDF: https://www.osti.gov/biblio/1431642
 
 [Coe:2017ac] (article, 2017) A Survey of WEC Reliability, Survival and Design Practices
   DOI: 10.3390/en11010004
@@ -366,12 +552,8 @@ optimization
   OSTI_MATCH: 1762915 | DOI | similarity 1.00 | WEC Optimization Tool Scoping Report
   OSTI_PDF: https://www.osti.gov/biblio/1762915
 
-[Rosenberg:2019aa] (inproceedings, 2019) Development of WEC Design Loads: A Comparison of Numerical and Experimental Approaches
-  OSTI_MATCH: 1641427 | full title | similarity 1.00 | Development of WEC Design Loads: A Comparison of Numerical and Experimental Approaches.
-  OSTI_PDF: https://www.osti.gov/biblio/1641427
-
 [Tagliafierro:2019aa] (inproceedings, 2019) Numerical modelling of a point-absorbing WEC model using DualSPHysics coupled with a multiphysics library
-  OSTI_MATCH: 1641428 | full title | similarity 1.00 | Numerical modelling of a point-absorbing WEC model using DualSPHysics coupled with a multiphysics library.
+  OSTI_MATCH: 1641428 | Conference | 2019-07-01 | similarity 1.00 | Numerical modelling of a point-absorbing WEC model using DualSPHysics coupled with a multiphysics library.
   OSTI_PDF: https://www.osti.gov/biblio/1641428
 
 [Driscol:2020aa] (article, 2020) A Scoping Study to Determine the Location-Specific WEC Threshold Size for Wave-Powered AUV Recharging
@@ -389,43 +571,12 @@ optimization
   OSTI_MATCH: 1995177 | DOI | similarity 1.00 | The wave energy converter control competition (WECCCOMP): Wave energy control algorithms compared in both simulation and tank testing
   OSTI_PDF: https://www.osti.gov/biblio/1995177
 
-[Michelen:2016aa] (inproceedings, 2016) Tool for Distributed Pressure Time-Histories of Marine Structures: Verification and Case Study With a WEC
-  OSTI_MATCH: 1618220 | full title | similarity 1.00 | Tool for Distributed Pressure Time-Histories of Marine Structures: Verification and Case Study With a WEC.
-  OSTI_PDF: https://www.osti.gov/biblio/1618220
-
-[Driscol:2019aa] (inproceedings, 2019) Wave-Powered AUV Recharging: A Feasibility Study
-  DOI: 10.1115/OMAE2019-95383
-  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2019/58899/V010T09A023/6444786/v010t09a023-omae2019-95383.pdf
-  OSTI_MATCH: 1641423 | DOI | similarity 1.00 | Wave-powered AUV Recharging: A Feasibility Study.
-  OSTI_PDF: https://www.osti.gov/biblio/1641423
-
-[Wilson:2019aa] (inproceedings, 2019) Nonlinear WEC Optimized Geometric Buoy Design for Efficient Reactive Power Requirements
-  DOI: 10.23919/OCEANS40490.2019.8962670
-  OSTI_MATCH: 1643048 | DOI | similarity 1.00 | Nonlinear WEC Optimized Geometric Buoy Design for Efficient Reactive Power Requirements.
-  OSTI_PDF: https://www.osti.gov/biblio/1643048
-
-[Weaver:2019aa] (inproceedings, 2019) WEC Array Networked Microgrid Control Design and Energy Storage System Requirements
-  DOI: 10.23919/OCEANS40490.2019.8962576
-  OSTI_MATCH: 1642739 | DOI | similarity 1.00 | WEC Array Networked Microgrid Control Design and Energy Storage System Requirements.
-  OSTI_PDF: https://www.osti.gov/biblio/1642739
-
 [McCarter:2012aa] (inproceedings, 2012) Design and testing of a Self-Mooring AUV
   DOI: 10.1109/OCEANS.2012.6405053
   OSTI: not found
 
 [Coe:2012aa] (inproceedings, 2012) Virtual planar motion mechanism tests in a CFD environment
   OSTI: not found
-
-[Nevarez:2018aa] (inproceedings, 2018) Feedback resonating control for a wave energy converter
-  DOI: 10.1109/SPEEDAM.2018.8445379
-  OSTI_MATCH: 1576914 | DOI | similarity 1.00 | Feedback Resonating Control For a Wave Energy Converter.
-  OSTI_PDF: https://www.osti.gov/biblio/1576914
-
-[Canning:2017ab] (inproceedings, 2017) On the Long-Term Reliability Analysis of a Point Absorber Wave Energy Converter
-  DOI: 10.1115/OMAE2017-62141
-  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2017/57786/V010T09A024/2534932/v010t09a024-omae2017-62141.pdf
-  OSTI_MATCH: 1365062 | subset match: "Point Absorber Wave Energy Converter" +author Coe | similarity 0.78 | On the Short-Term Uncertainty Performance of a Point Absorber Wave Energy Converter.
-  OSTI_PDF: 
 
 [Rij:2019aa] (article, 2019) A Wave Energy Converter Design Load Case Study
   DOI: 10.3390/jmse7080250
@@ -437,15 +588,6 @@ optimization
   existing eprint: https://asmedigitalcollection.asme.org/offshoremechanics/article-pdf/141/1/011901/6375365/omae\_141\_01\_011901.pdf
   OSTI_MATCH: 1477322 | DOI | similarity 1.00 | The Effect of Environmental Contour Selection on Expected Wave Energy Converter Response
   OSTI_PDF: https://www.osti.gov/biblio/1477322
-
-[Gunawan:2014aa] (inproceedings, 2014) Model validation using experimental measurements from the Garfield Thomas water tunnel at the Applied Research Laboratory (ARL) at Penn State University
-  OSTI_MATCH: 1143039 | full title | similarity 1.00 | MODEL VALIDATION USING EXPERIMENTAL MEASUREMENTS FROM THE GARFIELD THOMAS WATER TUNNEL AT THE APPLIED RESEARCH LABORATORY (ARL) AT PENN STATE UNIVERSITY.
-  OSTI_PDF: https://www.osti.gov/biblio/1143039
-
-[Haselsteiner:2019aa] (inproceedings, 2019) A Benchmarking Exercise on Estimating Extreme Environmental Conditions: Methodology and Baseline Results
-  DOI: 10.1115/OMAE2019-96523
-  OSTI_MATCH: 1641424 | DOI | similarity 0.98 | A Benchmarking Exercise on Estimating Extreme Environmental Conditions: Methodology & Baseline Results.
-  OSTI_PDF: https://www.osti.gov/biblio/1641424
 
 [Nguyen:2019aa] (article, 2019) On the Development of an Efficient Surrogate Model for Predicting Long-Term Extreme Loads on a Wave Energy Converter
   DOI: 10.1115/1.4042944
@@ -466,12 +608,6 @@ optimization
   DOI: 10.1109/OCEANS.2012.6405027
   OSTI: not found
 
-[Van-Rij:2018aa] (inproceedings, 2018) Design Load Analysis for Wave Energy Converters
-  DOI: 10.1115/OMAE2018-78178
-  existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2018/51319/V010T09A031/2537197/v010t09a031-omae2018-78178.pdf
-  OSTI_MATCH: 1482884 | DOI | similarity 1.00 | Design Load Analysis for Wave Energy Converters
-  OSTI_PDF: NONE (no fulltext)
-
 [Coe:2013ab] (phdthesis, 2013) Improved underwater vehicle control and maneuvering analysis with computational fluid dynamics simulations
   OSTI: not found
 
@@ -485,17 +621,8 @@ optimization
   OSTI_MATCH: 1406362 | DOI | similarity 1.00 | Full long-term design response analysis of a wave energy converter
   OSTI_PDF: https://www.osti.gov/biblio/1406362
 
-[Michelen:2015aa] (inproceedings, 2015) Comparison of methods for estimating short-term extreme response of wave energy converters
-  DOI: 10.23919/OCEANS.2015.7401878
-  OSTI_MATCH: 1306093 | full title | similarity 1.00 | Comparison of Methods for Estimating Short-Term Extreme Response of Wave Energy Converters.
-  OSTI_PDF: https://www.osti.gov/biblio/1306093
-
 [Ringwood:2017aa] (inproceedings, 2017) A competition for WEC control systems
   OSTI: not found
-
-[Coe:2016aa] (inproceedings, 2016) WDRT: A toolbox for design-response analysis of wave energy converters
-  OSTI_MATCH: 1365063 | full title | similarity 1.00 | WDRT: A toolbox for design-response analysis of wave energy converters.
-  OSTI_PDF: https://www.osti.gov/biblio/1365063
 
 [Manuel:2018aa] (article, 2018) Alternative approaches to develop environmental contours from metocean data
   DOI: 10.1007/s40722-018-0123-0
@@ -504,7 +631,7 @@ optimization
 [Yu:2015aa] (inproceedings, 2015) Preliminary Wave Energy Converters Extreme Load Analysis
   DOI: 10.1115/OMAE2015-41532
   existing eprint: https://asmedigitalcollection.asme.org/OMAE/proceedings-pdf/OMAE2015/56574/V009T09A026/4435126/v009t09a026-omae2015-41532.pdf
-  OSTI_MATCH: 1235668 | DOI | similarity 1.00 | Preliminary Wave Energy Converters Extreme Load Analysis
+  OSTI_MATCH: 1235668 | Conference | 2015-06-05 | similarity 1.00 | Preliminary Wave Energy Converters Extreme Load Analysis
   OSTI_PDF: NONE (no fulltext)
 
 [Coe:2014ac] (techreport, 2014) Extreme Conditions Modeling Workshop Report
@@ -517,11 +644,6 @@ optimization
   OSTI_MATCH: 1485469 | DOI | similarity 1.00 | Control of Three Degrees-of-Freedom Wave Energy Converters Using Pseudo-Spectral Methods
   OSTI_PDF: https://www.osti.gov/biblio/1485469
 
-[Abdelkhalik:2017ab] (inproceedings, 2017) WEC geometry optimization with advanced control
-  DOI: 10.1115/OMAE2017-61917
-  OSTI_MATCH: 1459773 | DOI | similarity 1.00 | WEC Geometry Optimization With Advanced Control.
-  OSTI_PDF: https://www.osti.gov/biblio/1459773
-
 [Abdelkhalik:2016aa] (article, 2016) On the control design of wave energy converters with wave prediction
   DOI: 10.1007/s40722-016-0048-4
   OSTI_MATCH: 2441135 | subset match: "On the control design of wave energy converters" +author Coe | similarity 0.64 | High-dimensional control co-design of a wave energy converter with a novel pitch resonator power takeoff system
@@ -533,25 +655,17 @@ optimization
   OSTI_PDF: https://www.osti.gov/biblio/1492375
 
 [Abdelkhalik:2015aa] (inproceedings, 2015) Control optimization of wave energy converters using a shape-based approach
-  OSTI_MATCH: 3453424 | subset match: "Control optimization wave energy converters" +author Coe | similarity 0.63 | Deep Learning-Driven Control Optimization for Wave Energy Converters via Real-time Sea State Prediction
-  OSTI_PDF: 
+  OSTI_MATCH: 3453424 | Conference | 2025-08-01 | similarity 0.63 | Deep Learning-Driven Control Optimization for Wave Energy Converters via Real-time Sea State Prediction
+  OSTI_PDF: https://www.osti.gov/biblio/3453424
 
 [Abdelkhalik:2016ab] (inproceedings, 2016) Estimation of excitation force on wave energy converters using pressure measurements for feedback control
   DOI: 10.1109/OCEANS.2016.7761227
-  OSTI_MATCH: 1375093 | full title | similarity 1.00 | Estimation of excitation force on wave energy converters using pressure measurements for feedback control.
+  OSTI_MATCH: 1375093 | Conference | 2016-08-01 | similarity 1.00 | Estimation of excitation force on wave energy converters using pressure measurements for feedback control.
   OSTI_PDF: https://www.osti.gov/biblio/1375093
 
-[Patterson:2015aa] (inproceedings, 2015) Instrumentation of a WEC device for controls testing
-  OSTI_MATCH: 1326573 | full title | similarity 1.00 | INSTRUMENTATION OF A WEC DEVICE FOR CONTROLS TESTING.
-  OSTI_PDF: https://www.osti.gov/biblio/1326573
-
 [Bull:2015aa] (inproceedings, 2015) Design of a Physical Point-Absorbing WEC Model on which Multiple Control Strategies will be Tested at Large Scale in the MASK Basin
-  OSTI_MATCH: 1255030 | subset match: "Design of a Physical Point-Absorbing WEC Model on" +author Coe | similarity 1.00 | Design of a Physical Point-Absorbing WEC Model on which Multiple Control Strategies will be Tested at Large Scale in the MASK Basi.
+  OSTI_MATCH: 1255030 | Conference | 2015-05-01 | similarity 1.00 | Design of a Physical Point-Absorbing WEC Model on which Multiple Control Strategies will be Tested at Large Scale in the MASK Basi.
   OSTI_PDF: https://www.osti.gov/biblio/1255030
-
-[Bacelli:2016aa] (inproceedings, 2016) A comparison of WEC control strategies for a linear WEC model
-  OSTI_MATCH: 1365310 | full title | similarity 1.00 | A comparison of WEC control strategies for a linear WEC model.
-  OSTI_PDF: https://www.osti.gov/biblio/1365310
 
 [Bacelli:2017aa] (article, 2017) System Identification of a Heaving Point Absorber: Design of Experiment and Device Modeling
   DOI: 10.3390/en10040472
@@ -560,10 +674,6 @@ optimization
 
 [Bacelli:2017ab] (inproceedings, 2017) Design and Bench Testing of a Model-Scale WEC for Advanced PTO Control Research
   OSTI: not found
-
-[Bacelli:2017ac] (inproceedings, 2017) WEC System Identification and Model Validation
-  OSTI_MATCH: 1431726 | full title | similarity 1.00 | WEC System Identification and Model Validation.
-  OSTI_PDF: https://www.osti.gov/biblio/1431726
 
 [Bacelli:2019aa] (article, 2019) Wave tank and bench-top control testing of a wave energy converter
   DOI: 10.1016/j.apor.2018.09.009
@@ -590,26 +700,10 @@ optimization
   OSTI_MATCH: 1431291 | DOI | similarity 1.00 | A comparison of WEC control strategies
   OSTI_PDF: https://www.osti.gov/biblio/1431291
 
-[Wilson:2016aa] (inproceedings, 2016) WEC and Support Bridge Control Structural Dynamic Interaction Analysis
-  OSTI_MATCH: 1365132 | full title | similarity 1.00 | WEC and Support Bridge Control Structural Dynamic Interaction Analysis.
-  OSTI_PDF: https://www.osti.gov/biblio/1365132
-
-[Cho:2019aa] (inproceedings, 2019) Evaluation of predictionless control for wave energy converters
-  OSTI_MATCH: 1642748 | full title | similarity 1.00 | Evaluation of predictionless control for wave energy converters.
-  OSTI_PDF: https://www.osti.gov/biblio/1642748
-
-[Cho:2018aa] (inproceedings, 2018) Linear and Nonlinear System Identification of a Wave Energy Converter
-  OSTI_MATCH: 1524503 | full title | similarity 1.00 | Linear and Nonlinear System Identification of a Wave Energy Converter.
-  OSTI_PDF: https://www.osti.gov/biblio/1524503
-
 [Cho:2019ab] (article, 2019) Model Predictive Control Tuning by Inverse Matching for a Wave Energy Converter
   DOI: 10.3390/en12214158
   OSTI_MATCH: 2376234 | DOI | similarity 1.00 | Model Predictive Control Tuning by Inverse Matching for a Wave Energy Converter
   OSTI_PDF: NONE (no fulltext)
-
-[Neary:2017aa] (inproceedings, 2017) Classification Systems for Wave Energy Resources and WEC Technologies
-  OSTI_MATCH: 1464892 | full title | similarity 1.00 | Classification Systems for Wave Energy Resources and WEC Technologies.
-  OSTI_PDF: https://www.osti.gov/biblio/1464892
 
 [Neary:2018aa] (article, 2018) Classification systems for wave energy resources and WEC technologies
   DOI: 10.36688/imej.1.71-79
@@ -626,24 +720,9 @@ optimization
   OSTI_MATCH: 1807326 | full title | similarity 1.00 | A Self-Tuning WEC Controller For Changing Sea States.
   OSTI_PDF: https://www.osti.gov/biblio/1807326
 
-[Coe:2017ab] (inproceedings, 2017) An assessment of WEC control performance uncertainty
-  DOI: 10.1115/OMAE2017-61912
-  OSTI_MATCH: 1459785 | DOI | similarity 1.00 | AN ASSESSMENT OF WEC CONTROL PERFORMANCE UNCERTAINTY.
-  OSTI_PDF: https://www.osti.gov/biblio/1459785
-
-[Coe:2014aa] (inproceedings, 2014) Nonlinear Time-Domain Performance Model for a Wave Energy Converter in Three Dimensions
-  DOI: 10.1109/OCEANS.2014.7003037
-  OSTI_MATCH: 1315394 | DOI | similarity 1.00 | Nonlinear time-domain performance model for a wave energy converter in three dimensions.
-  OSTI_PDF: https://www.osti.gov/biblio/1315394
-
 [Coe:2014ab] (inproceedings, 2014) Review of Methods for Modeling Wave Energy Converter Survival in Extreme Sea States
-  OSTI_MATCH: 1143000 | subset match: "Review of Methods for Modeling Wave Energy Converter" +author Coe | similarity 0.99 | REVIEW OF METHODS FOR MODELING WAVE ENERGY CONVERTER SURVIVALIN EXTREME SEA STATES.
-  OSTI_PDF: http://hdl.handle.net/10919/49221
-
-[Coe:2015aa] (inproceedings, 2015) Sensitivity of a Wave Energy Converter Dynamics Model to Nonlinear Hydrostatic Models
-  DOI: 10.1115/OMAE2015-41993
-  OSTI_MATCH: 1255771 | full title | similarity 1.00 | Sensitivity of a Wave Energy Converter Dynamics Model to Nonlinear Hydrostatic Models.
-  OSTI_PDF: https://www.osti.gov/biblio/1240253
+  OSTI_MATCH: 1143000 | Conference | 2014-04-01 | similarity 0.99 | REVIEW OF METHODS FOR MODELING WAVE ENERGY CONVERTER SURVIVALIN EXTREME SEA STATES.
+  OSTI_PDF: https://www.osti.gov/biblio/1143000
 
 [Coe:2016ab] (techreport, 2016) Advanced WEC Dynamics & Controls FY16 Testing Report
   DOI: 10.2172/1330189
@@ -689,4 +768,3 @@ optimization
   DOI: 10.2172/1592944
   OSTI_MATCH: 1592944 | DOI | similarity 1.00 | A summary of the Advanced WEC Dynamics and Control project
   OSTI_PDF: https://www.osti.gov/biblio/1592944
-
