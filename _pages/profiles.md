@@ -41,11 +41,11 @@ profiles:
     content: about_jeremy.md
     more_info:
     socials: # use as many or few of these as you like
-      # email: # include if you like
+      email: jeremy.john@vt.edu
       orcid_id: 0009-0001-3112-0836
-      # scholar_userid: # your Google Scholar ID
+      scholar_userid: BWwOvScAAAAJ&hl
       github_username: jer-j
-      # research_gate_profile:
+      research_gate_profile: Jeremy-John-7
       linkedin_username: jer-j # your LinkedIn user name
       # scopus_id: # your profile on Scopus
 
