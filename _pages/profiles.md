@@ -23,7 +23,7 @@ profiles:
 
   - align: left
     name: Ian Hermanson
-    image: prof_anon.jpg
+    image: Ian_Headshot.jpg
     content: about_ian.md
     more_info:
     socials: # use as many or few of these as you like
